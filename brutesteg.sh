@@ -1,5 +1,5 @@
 #!/bin/bash
-# Bruteforce password protected file with using steghide and a specified wordlist
+# Bruteforce password protected file using steghide and a specified wordlist
 
 function usage {
     echo -e "\n"
